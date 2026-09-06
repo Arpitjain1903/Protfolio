@@ -33,7 +33,7 @@ export const About: React.FC = () => {
                 My experience ranges from delivering fraud-detection ML pipelines surfacing significant risk indicators for business teams, to developing interactive salary-driver dashboards and publishing IEEE-format statistical research on industrial surrogate modeling.
               </p>
               <p>
-                Proficient in SQL, statistical inference (ANOVA, Chi-Square, A/B Testing), and the Python data science stack (PyTorch, XGBoost, Scikit-learn, Statsmodels, Pandas). Open to Data Scientist and ML Engineer roles focused on experimentation and model-driven insight.
+                Proficient in Python, C++, Data Structures & Algorithms (DSA), SQL, statistical inference (ANOVA, Chi-Square, A/B Testing), and the ML/DL stack (PyTorch, XGBoost, Scikit-learn, Docker, FastAPI). Open to Data Scientist, Machine Learning Engineer, and AI Engineer roles.
               </p>
             </div>
 
@@ -69,8 +69,8 @@ export const About: React.FC = () => {
                 </div>
                 <div>
                   <h3 className="text-[13px] font-semibold text-[#EDECE8]">Core Domain Focus</h3>
-                  <p className="text-[12px] text-[#8A887F] mt-0.5">Statistical Analysis & Machine Learning</p>
-                  <p className="text-[11px] text-[#B8B6AE] font-mono mt-1">Hypothesis Testing • SMOTE • XGBoost • SQL</p>
+                  <p className="text-[12px] text-[#8A887F] mt-0.5">Machine Learning, Deep Learning & DSA</p>
+                  <p className="text-[11px] text-[#B8B6AE] font-mono mt-1">Python • C++ • DSA • PyTorch • Docker • SQL</p>
                 </div>
               </div>
             </div>
