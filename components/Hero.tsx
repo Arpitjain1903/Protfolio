@@ -138,7 +138,7 @@ export const Hero: React.FC = () => {
                   <div className="p-4 rounded-2xl bg-[#161513]/85 border border-[#2A2925] backdrop-blur-md space-y-1 shadow-lg">
                     <div className="flex justify-between items-center text-[11px] font-semibold text-[#EDECE8]">
                       <span>DATA SCIENTIST</span>
-                      <span className="font-mono text-[#8A887F]">2026</span>
+                      <span className="font-mono text-[#8A887F]">2027</span>
                     </div>
                     <p className="text-[11px] text-[#B8B6AE] font-mono leading-tight">
                       B.Tech AI & ML • Teerthanker Mahaveer University
